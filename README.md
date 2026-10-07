@@ -1,6 +1,6 @@
 # jpa02-timothyhu1
 
-Repo: https://github.com/ucsb-cs156-f26/jpa02_timothyhu1
+Repo: https://github.com/ucsb-cs156-f26/jpa02-timothyhu1
 
 Deployed at: https://jpa02-timothyhu1.dokku-02.cs.ucsb.edu
 
