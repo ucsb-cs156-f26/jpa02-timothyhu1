@@ -1,4 +1,4 @@
-# jpa02_timothyhu1
+# jpa02-timothyhu1
 
 Repo: https://github.com/ucsb-cs156-f26/jpa02_timothyhu1
 
