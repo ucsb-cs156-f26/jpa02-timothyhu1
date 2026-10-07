@@ -58,8 +58,8 @@ public class TeamTest {
         assert(!t5.equals(t6));
 
         //F && F
-        Team t7 = new Team("test-team1");
-        Team t8 = new Team("test-team2");
+        Team t7 = new Team("test-team");
+        Team t8 = new Team("test-team1");
         t7.addMember("member1");
         t8.addMember("member2");
         assert(!t7.equals(t8));
